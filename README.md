@@ -1,10 +1,11 @@
-
+![logo](https://github.com/devesh950/devesh950/blob/main/1235.jpg)
 <h1 align="center">Hi 👋, I'm Devesh Kumar Singh</h1>
 <h3 align="center">A passionate Data Analyst and aspiring Data Scientist, with interests in Machine Learning roles.</h3>
-<img src="[https://cdn.dribbble.com/users/...](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" 
-     alt="Coding" 
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
+     alt="Coding Animation" 
      width="400" 
      align="right">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesh950&label=Profile%20views&color=0e75b6&style=flat" alt="devesh950" /> </p>
@@ -19,7 +20,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **i**
+- 📫 How to reach me **Linkedin Connect**
 
 - ⚡ Fun fact **I Love turning Complex Data into Simple Stories.**
 
