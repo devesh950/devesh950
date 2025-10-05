@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesh950&label=Profile%20views&color=0e75b6&style=flat" alt="devesh950" /> </p>
 
-- 🔭 I’m currently working on **Retail Sales Analysis**
+- 🔭 I’m currently working on *Machine Learning Project **
 
 - 🌱 I’m currently learning **Tensorflow,Flask,Machine Learning**
 
-- 👯 I’m looking to collaborate on [House Price Predictions](https://github.com/devesh950/House-Price-Predictions)
+- 👯 I’m looking to collaborate on [Machine Learning Project ](https://github.com/devesh950/House-Price-Predictions)
 
-- 🤝 I’m looking for help with [Bank Churn Predictions](https://github.com/devesh950/Bank-Customer-Churn-Predictions-Using-Machine-Learning)
+- 🤝 I’m looking for help with [Deep Learning ](https://github.com/devesh950/Bank-Customer-Churn-Predictions-Using-Machine-Learning)
 
 - 💬 Ask me about **Machine Learning**
 
