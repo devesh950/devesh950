@@ -1,4 +1,4 @@
-![logo](https://github.com/devesh950/devesh950/blob/main/1235.jpg)
+![logo](https://github.com/devesh950/devesh950/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Devesh Kumar Singh</h1>
 <h3 align="center">A passionate Data Analyst and aspiring Data Scientist, with interests in Machine Learning roles.</h3>
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
